@@ -7,13 +7,54 @@
       "away": "Boston Red Sox",
       "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
       "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
-      "link": "https://sportsrdlive.blogspot.com/2026/06/1er-juego-del-dia.html",
-      "link": "https://www.mlb.com/scores",
-      "link": "https://www.mlb.com/ligas-invernales/scores/2026-02-10",
-      "link": "https://www.nba.com/games",
-      "link": "https://www.flashscore.es/baloncesto/republica-dominicana/lnb/",
-      "link": "https://www.fifa.com/es/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"
+      "link": "https://sportsrdlive.blogspot.com/2026/06/1er-juego-del-dia.html"
+    },
+    {
+      "league": "MLB",
+      "time": "20:40",
+      "home": "Atlanta Braves",
+      "away": "Philadelphia Phillies",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+      "link": "https://sportsrdlive.blogspot.com/2026/06/2do-juego-del-dia.html"
+    },
+    {
+      "league": "MLB",
+      "time": "22:10",
+      "home": "Los Angeles Dodgers",
+      "away": "San Francisco Giants",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+      "link": "https://sportsrdlive.blogspot.com/2026/06/3er-juego-del-dia.html"
+    },
+    {
+      "league": "Mundial FIFA",
+      "time": "18:00",
+      "home": "Colombia",
+      "away": "Panamá",
+      "homeLogo": "https://flagcdn.com/w320/co.png",
+      "awayLogo": "https://flagcdn.com/w320/pa.png",
+      "link": "https://sportsrdlive.blogspot.com/2026/06/1er-juego-del-dia-mundial-de-football.html"
+    },
+    {
+      "league": "Mundial FIFA",
+      "time": "21:00",
+      "home": "México",
+      "away": "Estados Unidos",
+      "homeLogo": "https://flagcdn.com/w320/mx.png",
+      "awayLogo": "https://flagcdn.com/w320/us.png",
+      "link": "https://sportsrdlive.blogspot.com/2026/06/2do-juego-del-dia-mudial-de-football.html"
     }
   ],
-  "2026-06-26": [ /* partidos del día siguiente */ ]
+  "2026-06-26": [
+    {
+      "league": "MLB",
+      "time": "19:10",
+      "home": "Equipo Ejemplo",
+      "away": "Otro Equipo",
+      "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+      "link": "https://sportsrdlive.blogspot.com/2026/06/otro-juego.html"
+    }
+  ]
 }
